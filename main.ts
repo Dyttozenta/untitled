@@ -1,3 +1,7 @@
-basic.forever(function () {
-    MicrobitPiano.TP_PlayPiano()
-})
+basic.showLeds(`
+    . . . . .
+    . . . . .
+    . . . . .
+    . . . . .
+    . . . . .
+    `)
