@@ -1,7 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="WWTVcuuHsSU}4_D-AV{f" x="96" y="363"><statement name="HANDLER"><block type="device_show_leds" id="j3:|i}n;Z#k.ut(tMyIL"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="WWTVcuuHsSU}4_D-AV{f" x="170" y="526"><statement name="HANDLER"><block type="device_show_leds" id="j3:|i}n;Z#k.ut(tMyIL"><field name="LEDS">`
         . . . . . 
+        . # . # . 
         . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . .
-        `</field></block></statement></block></xml>
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="iwm2veXIzUe{.!eO,]^)"><value name="text"><shadow type="text" id="h.d0}|t4CX4E6i..ky7k"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_print_message" id="!%J1|JA}Cy*WT$LoHs.N"><value name="text"><shadow type="text" id="r=Qw8UVMqJS!.GtLaT%K"><field name="TEXT">This Is Not For You</field></shadow></value><next><block type="basic_show_icon" id="Z-DvuQB5WH!4c285D+e7"><field name="i">IconNames.Sad</field></block></next></block></next></block></next></block></statement></block></xml>
